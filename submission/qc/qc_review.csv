@@ -1,0 +1,7 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,12,thua,PhamHuuHung,Box #12 three_wheeler 0.32 ở hậu cảnh bên trái là box thừa của YOLOE ôm nhầm mái hiên và xe máy ở xa
+img_003.jpg,,bo_sot,PhamHuuHung,Bỏ sót 1 chiếc motorbike chở sọt hàng màu xanh đỗ ngay phía sau bên trái person #17
+img_006.jpg,83,thua,PhamHuuHung,Box #83 car 0.59 ở cuối hẻm phố đi bộ Tạ Hiện là dương tính giả (biển hiệu/mái che ở xa bị YOLO26 nhầm là ô tô)
+img_014.jpg,,khong,PhamHuuHung,19/19 đối tượng (người gánh hàng #147 và các cặp person + motorbike) đều đúng lớp và ôm sát biên
+img_031.jpg,433,sai_vi_tri_kich_thuoc,PhamHuuHung,Box #433 bicycle 0.36 chưa ôm hết phần mẹt hoa quả gắn cố định trên yên sau bên trái xe đạp
+img_035.jpg,,khong,PhamHuuHung,30/30 đối tượng (xích lô #482 + người đạp #488, người đi bộ và xe máy hai bên đường) đạt chuẩn guideline
